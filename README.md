@@ -1,5 +1,5 @@
 # Discovering-influential-factors-in-variational-autoencoders
-An tensorflow implementation of the paper "Discovering influential factors in variational autoencoders"
+A tensorflow implementation of the paper "Discovering influential factors in variational autoencoders"
 
 ## Requirement
 tensorflow 2.0.0
