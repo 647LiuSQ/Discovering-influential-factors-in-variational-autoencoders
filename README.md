@@ -1,4 +1,4 @@
-# Discovering-influential-factors-in-variational-autoencoders
+# Discovering influential factors in variational autoencoders
 A tensorflow implementation of the paper "Discovering influential factors in variational autoencoders"
 
 ## Requirement
