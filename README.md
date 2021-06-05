@@ -17,4 +17,4 @@ Please cite the paper if you use this code in your code
     publisher={Elsevier}
     }
     
-If you have any question in using the code, welcom to contact Shiqi Liu (aaa_330473405@qq.com)
+If you have any question about using the code, welcome to contact Shiqi Liu (aaa_330473405@qq.com)
